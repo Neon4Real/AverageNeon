@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="https://cdn.discordapp.com/attachments/1128680275388399746/1129034448193720360/2023-07-13_18-23-08_online-video-cutter.com.gif"/></div>
+        <img src="https://cdn.discordapp.com/attachments/1128680275388399746/1129034970338426941/peakpx.jpg"/></div>
 
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
