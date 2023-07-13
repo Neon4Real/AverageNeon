@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="https://www.creativefabrica.com/wp-content/uploads/2021/06/10/Neon-Fonts-13197028-1-1-580x387.jpg"/></div>
+        <img src="https://cdn.discordapp.com/attachments/1128678163485036654/1128953186451992626/Neon-Fonts-13197028-1-1-580x387.jpg"/></div>
 
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
